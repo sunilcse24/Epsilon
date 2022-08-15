@@ -1,0 +1,51 @@
+.main {
+    padding: 75px;
+}
+
+.card {
+    width: 290px;
+    border-radius: 1px;
+    box-shadow: 0px 3px 18px #000;
+}
+
+.card:hover {
+    filter: drop-shadow(0px 3px 18px #000);
+    opacity: 0.6;
+}
+
+.container {
+    margin-left: 16px;
+}
+
+.container .card-header {
+    font-family: 'Source Sans Pro';
+    font-weight: 600;
+    font-size: 15px;
+    color: #0F5EF0;
+    padding-top: 20px;
+}
+
+.container .card-text {
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+    font-size: 12px;
+    color: #7A8594;
+    padding-top: 18px;
+}
+
+.container .card-date {
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+    font-size: 12px;
+    color: #7A8594;
+    padding-top: 20px;
+}
+
+.container .end {
+    padding-top: 14px;
+}
+
+.dimg {
+    width: 100%;
+}
+
